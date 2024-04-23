@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- UIApplicationSceneManifest -->
+    <key>UIApplicationSceneManifest</key>
+    <dict>
+        <key>UIApplicationSupportsMultipleScenes</key>
+        <true/>
+        <key>UIApplicationSupportsTabbedSceneCollection</key>
+        <false/>
+    </dict>
+
+    <!-- HealthKit Authorization -->
+    <key>NSHealthShareUsageDescription</key>
+    <string>We use this data to track your health and fitness progress.</string>
+    <key>NSHealthUpdateUsageDescription</key>
+    <string>We use this data to provide personalized health recommendations.</string>
+</dict>
+</plist>
